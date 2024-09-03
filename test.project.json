@@ -1,0 +1,12 @@
+{
+  "name": "Tunnel",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Tunnel": {
+        "$path": "src"
+      }
+    }
+  }
+}
